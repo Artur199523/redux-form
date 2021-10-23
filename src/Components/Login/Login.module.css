@@ -1,0 +1,14 @@
+.loginCenter{
+    border: solid 1px black;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+
+}
+.but{
+    text-decoration: none;
+    color: black;
+}
+.inp{
+    margin: 20px 0;
+}
